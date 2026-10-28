@@ -253,6 +253,7 @@
     "335.webp",
     "336.webp",
     "337.webp",
+    "340.webp",
     "342.webp",
     "343.webp",
     "344.webp",
@@ -262,13 +263,21 @@
     "349.webp",
     "350.webp",
     "406.webp",
+    "407.webp",
     "410.webp",
     "411.webp",
     "412.webp",
     "413.webp",
     "414.webp",
     "415.webp",
-    "416.webp"
+    "416.webp",
+    "417.webp",
+    "418.webp",
+    "419.webp",
+    "420.webp",
+    "421.webp",
+    "422.webp",
+    "424.webp"
   ],
   "device": [
     "0.webp",
@@ -16649,6 +16658,7 @@
     "1.webp"
   ],
   "tappable": [
+    "TAPPABLE_TYPE_BOX.webp",
     "TAPPABLE_TYPE_BREAKFAST.webp",
     "TAPPABLE_TYPE_HAT.webp",
     "TAPPABLE_TYPE_MAPLE.webp",
